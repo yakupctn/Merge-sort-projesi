@@ -11,7 +11,7 @@
 
 ### Big-O gösterimini yazınız.
 
-*Big-O gösterimi: O(n*logn)*
+Big-O gösterimi: O(n*logn)'dir.
 
 ---
 [patika](https://www.patika.dev/)
